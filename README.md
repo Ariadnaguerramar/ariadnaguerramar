@@ -11,5 +11,6 @@
 
 ---
 
-### Hola! Soy Ariadna Guerra, desarrolladora web y docente
+### Hola! Soy Ariadna Guerra, desarrolladora web y docente.
+<img src='https://github.com/Ariadnaguerramar/ariadnaguerramar/blob/main/perfil.png' width='300px' align-items='center'/>
 
