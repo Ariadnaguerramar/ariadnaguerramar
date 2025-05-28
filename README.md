@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hola 
 
-<!--
-**Ariadnaguerramar/ariadnaguerramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hola soy ariadna** (Negrita)
 
-Here are some ideas to get you started:
+*cursiva* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola sdasdasdas
+
+```python
+
+```
+Lista:
+- Elemento1
+- Elemento2
+- Elemento3
+  - Sub-elemento
+  - Sub-elemento
+ 
+Lista numerada: 
+
+1. Paso uno
+2. Paso
+
+
+> Esto es un comentario
+
+```bash
+git add .
+git commit -m "Primer commit"
+git push origin main
+```
+
+| Lenguaje | Nivel |
+|----------|-------|
+| HTML     | Básico |
+| Python   | Intermedio |
+
+Checkboxes
+- [ ] Escribir readme
+- [ ] Seguir los pasos
+
+<!--Hola--> Código /Comentario no visible.
+
+
+
